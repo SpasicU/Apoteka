@@ -1,0 +1,6 @@
+Fri, 28 Jan 2022 11:22:49 +0100	 - 2 andol, 2 aspirin, 3 vit C. Ukupna cena: 165 dinara. 
+Fri, 28 Jan 2022 11:23:08 +0100	 - 1 andol, 1 aspirin, 1 vit C. Ukupna cena: 66 dinara. 
+Fri, 28 Jan 2022 11:23:13 +0100	 - 0 andol, 0 aspirin, 1 vit C. Ukupna cena: 33 dinara. 
+Fri, 28 Jan 2022 13:33:22 +0100	 -  andol,  aspirin,  vit C. Ukupna cena: 0 dinara. 
+Fri, 28 Jan 2022 13:33:29 +0100	 - 1 andol, 2 aspirin, 3 vit C. Ukupna cena: 154 dinara. 
+Mon, 19 Jun 2023 13:58:50 +0200	 - 1 andol, 2 aspirin, 3 vit C. Ukupna cena: 154 dinara. 
